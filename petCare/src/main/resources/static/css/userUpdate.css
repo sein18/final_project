@@ -1,0 +1,10 @@
+@charset "UTF-8";
+form, h1, #back, div{
+ 	text-align: center;
+ 	padding-top: 1%; 	
+ }
+
+ 
+ #myprofile{
+ 	font-size: 30pt !important;
+ }
